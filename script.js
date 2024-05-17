@@ -10,5 +10,5 @@ function desvia(t){
 }
 
 function geraPosição(min, max) {
-    return `${Math.random() * (max - min)}%`;
+    return Math.random()  (max - min) + "%" ;
 }
