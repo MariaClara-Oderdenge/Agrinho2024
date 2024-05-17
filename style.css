@@ -17,13 +17,13 @@ body{
 .titulo_h2{
     font-weight: 300;
     display: block;
-    color: #7700ff;
+    color: var(--cinza-claro);
     padding-right: 2em;
 }
 
 .titulo_h3{
     font-weight: 300;
-    display: block;
-    color: #000000;
+    display: none;
+    color: var(--cinza-claro);
     padding-right: 2em;
 }
