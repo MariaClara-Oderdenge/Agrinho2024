@@ -42,7 +42,7 @@ iframe{
     margin: auto;
 }
 
-#conteudo{
+.conteudo{
     background-color: #f58296;
     width: 100%;
     height: 100%;
