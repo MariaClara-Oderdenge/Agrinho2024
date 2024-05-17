@@ -10,13 +10,17 @@
     --fonte-principal:"Poppins";
 }
 
-body{
+.body{
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
 }
 .titulo_h2{
-    font-weight: 400;
+    font-weight: 300;
     display: block;
-    color: #d3b5f6;
+    color: #7700ff;
     padding-right: 2em;
+}
+
+.titulo_h3{
+
 }
