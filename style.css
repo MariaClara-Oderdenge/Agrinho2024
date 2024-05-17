@@ -1,9 +1,9 @@
 
 :root{
-    --cor-de-fundo: #d3b5f6;
+    --cor-de-fundo: #0c700c;
     --branco: #ffffff;
-    --laranja: #EB9B00;
-    --azul: #002F52;
+    --verde: #288000;
+    --azul: #0262ac;
     --preto: #000000;
     --cinza: #2e2e2e;
     --cinza-claro: #858585;
@@ -22,5 +22,8 @@ body{
 }
 
 .titulo_h3{
-
+    font-weight: 300;
+    display: block;
+    color: #000000;
+    padding-right: 2em;
 }
