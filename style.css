@@ -13,6 +13,14 @@
 body{
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 25px;
+    color:var(--preto);
+    text-align: center;
+    line-height: 1.5;
+    border: 5px dashed #EEE8AA;
+    margin: 30px;
+    padding: 25px;
 }
 .titulo_h2{
     font-weight: 100;
@@ -28,4 +36,9 @@ body{
     color: var(--cinza-claro);
     padding-right: 2em;
     text-align: center;
+}
+
+iframe{
+    display: block;
+    margin: auto;
 }
