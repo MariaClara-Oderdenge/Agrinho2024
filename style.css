@@ -7,10 +7,10 @@
     --preto: #000000;
     --cinza: #2e2e2e;
     --cinza-claro: #858585;
-    --fonte-principal:"Poppins";
+    --fonte-principal:"Verdana";
 }
 
-.body{
+body{
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
 }
