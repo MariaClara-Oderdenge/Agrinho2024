@@ -40,8 +40,7 @@ body{
 
 .bnt{
     background-color: var(--cinza-claro) ;
-    weight: 200;
-    border: rgb(0, 35, 99);
+    weight: 300;
 
 }
 :hover.bnt{
