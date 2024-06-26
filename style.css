@@ -25,7 +25,7 @@ body{
 .titulo_h2{
     font-weight: 100;
     display: block;
-    color: var(--cinza-claro);
+    color: #002f53;
     padding-right: 2em;
     text-align: center;
 }
