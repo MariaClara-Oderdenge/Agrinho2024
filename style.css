@@ -1,6 +1,6 @@
 
 :root{
-    --cor-de-fundo: #8bbeffce;
+    --cor-de-fundo: #2867b9ce;
     --branco: #ffffff;
     --verde: #288000;
     --azul: #0262ac;
@@ -39,7 +39,6 @@ body{
 
 .bnt{
     background-color: var(--cinza-claro) ;
-    color: var(--preto);
 
 }
 
