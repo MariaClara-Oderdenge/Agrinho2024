@@ -38,7 +38,8 @@ body{
 }
 
 .bnt{
-    color: var(--cinza-claro) ;
+    background-color: var(--cinza-claro) ;
+    color: var(--preto);
 
 }
 
