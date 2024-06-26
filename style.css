@@ -37,5 +37,8 @@ body{
     text-align: center;
 }
 
-
+.button{
+    color: var(--cinza-claro) ;
+    
+}
 
