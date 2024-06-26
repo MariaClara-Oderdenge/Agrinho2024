@@ -43,7 +43,7 @@ body{
     weight: 300;
     border-color: #002f53;
     border-style:outside;
-    border-width: 30px;
+    border-width: 5px;
 }
 :hover.bnt{
  background-color: var(--cinza);
